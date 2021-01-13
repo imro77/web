@@ -1,0 +1,24 @@
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(26, 26, 26);
+}
+body{
+    background-color:white; 
+    margin:0;
+}
+h1{    
+    padding-left: 20px;
+}
+#logo{
+    text-align: center; 
+    font-size: 30px;
+    color: gainsboro;
+    margin:0; 
+    top:0;
+    left:0;    
+    width: 100%;    
+    background-color: gray;
+    position: fixed;
+    overflow: hidden;    
+    height: 37px;
+}

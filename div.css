@@ -1,0 +1,24 @@
+div{
+    background-image: linear-gradient(to bottom right, white, gray);
+    background-color:black;
+    padding-left: 50px;
+    vertical-align: middle;
+}
+
+#dummy{
+    height: 500px;
+}
+
+#paragraph{
+    width: 60px;
+    float: left;
+}
+
+table,th{    
+    width: 90%;
+}
+td{ 
+    height: 50px;
+    text-align: center;
+    width: 33%;
+}

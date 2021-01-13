@@ -1,0 +1,33 @@
+#menu {
+    list-style-type: none;
+    left:0;
+    padding:0;    
+    margin:0;    
+    width: 100%;
+    background-color: gray;
+    overflow: hidden;
+    position: fixed;
+    opacity: 0.75;                
+}
+li{                
+    float:left;
+}
+li a {
+    font-size: 20px;
+    display: block;
+    width: 150px;
+    color:gainsboro;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+li a:hover {
+            background-color: #555;
+            color: white;
+            
+}
+li a.active {                    
+        color:gainsboro;
+        background-color: #555;
+        text-decoration: underline;
+}
